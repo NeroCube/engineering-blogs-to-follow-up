@@ -14,4 +14,4 @@
 * [Towards Data Science](https://towardsdatascience.com/) :Sharing concepts, ideas, and codes
 * [Andrei Neagoie's Blog](https://medium.com/@andreineagoie):A engineer passion in sharing the world modern skills.
 * [Hacknoon's Blog](https://hackernoon.com/)
-* [](https://medium.com/shopback-engineering) :A engineer passion in frontend.
+* [Shopback Engineering](https://medium.com/shopback-engineering) :A engineer passion in frontend.
