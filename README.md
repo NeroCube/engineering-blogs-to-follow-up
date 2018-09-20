@@ -11,6 +11,7 @@
 * [ChiuCC's Blog](http://alrightchiu.github.io/SecondRound/) :A engineer passion in Algorithm.
 * [Tommy's Blog](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%96%B9%E6%B3%95%E6%A6%82%E8%A7%80-1f6218d9c974):A engineer passion in machine learning.
 * [Adnan Rahić's Blog](https://medium.freecodecamp.org/@adnanrahic):A engineer passion in node.js.
+* [LeeMeng's Blog](https://leemeng.tw/index.html) :A engineer passion in Data Science.
 -----------
 * [Towards Data Science](https://towardsdatascience.com/) :Sharing concepts, ideas, and codes
 * [Andrei Neagoie's Blog](https://medium.com/@andreineagoie):A engineer passion in sharing the world modern skills.
